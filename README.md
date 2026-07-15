@@ -1,4 +1,4 @@
-Fake News Detection using BERT and Hugging Face Transformers
+###Fake News Detection using BERT and Hugging Face Transformers
 
 ## Project Overview
 
